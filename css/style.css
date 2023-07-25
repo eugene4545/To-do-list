@@ -1,6 +1,6 @@
 html{
     font-family: 'Roboto', sans-serif;
-    background: linear-gradient(#90ee90,#0000ff);
+    background: linear-gradient(#fff,purple);
     background-repeat: no-repeat;
     background-position: center;
     background-size: auto;
@@ -48,11 +48,11 @@ ul{
     align-items: center;
     
 }
-
+/*  
 input.check{
 
     
-}
+}*/
 
 .todo-list{
     text-align:end !important;
